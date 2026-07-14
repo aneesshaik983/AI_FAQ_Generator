@@ -108,6 +108,9 @@ The application allows users to:
 - Download the generated FAQs
 
 ---
+## Project Screenshot
+
+![Project Screenshot](images/project_screenshot.png)
 
 ## 👨‍💻 Author
 
